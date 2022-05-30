@@ -1,0 +1,14 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+.openzeppelin
+
+src
+#Hardhat files
+cache
+artifacts
+
+autocommit.yml
+LAST_UPDATED
